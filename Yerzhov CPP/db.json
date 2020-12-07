@@ -1,0 +1,334 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "userName": "andrei",
+      "pass": "1111",
+      "pass2": "1111",
+      "email": "erzhovandrei@gmail.com"
+    },
+    {
+      "userName": "q",
+      "pass": "111111",
+      "pass2": "111111",
+      "email": "q@q",
+      "id": 2
+    },
+    {
+      "userName": "w",
+      "pass": "111111",
+      "pass2": "111111",
+      "email": "w@w",
+      "id": 3,
+      "cartObgLS": {
+        "1": 1,
+        "2": 1,
+        "3": 2,
+        "6": 6
+      }
+    },
+    {
+      "userName": "andrei",
+      "pass": "111111",
+      "pass2": "111111",
+      "email": "a@gmail.com",
+      "id": 4
+    },
+    {
+      "userName": "e",
+      "pass": "111111",
+      "pass2": "111111",
+      "email": "e@e",
+      "id": 5
+    },
+    {
+      "userName": "a",
+      "pass": "qqqqqq",
+      "pass2": "qqqqqq",
+      "email": "a@f.com",
+      "id": 6
+    }
+  ],
+  "about": [
+    {
+      "text": "Rules Rules for using the MY PHONE",
+      "text1": "1.Basic Terms The terms and definitions used in these rules, unless the context clearly indicates otherwise or is not specifically stated otherwise, are used in the following meaning: User is a registered user of the blog s13.ru. Nickname - an additional username, chosen by him to be displayed in messages and publications on the blog s13.ru. The nickname can contain any alphanumeric characters of the Belarusian, Russian or Latin alphabet, spaces and other signs (during registration, the nickname is indicated by Latin characters, the nickname display can be changed in the profile settings).",
+      "text2": "Avatar - a small picture that accompanies the appearance of a nickname. Administrator - curator, having an email address admin@s13.ru. Moderator - the administrator of the blog s13.ru, engaged in moderation. Moderation - actions required to bring and maintain publications and messages in accordance with these Rules. Moderation is the removal and correction of messages and publications users. Flame - rude, obscene expressions, rudeness and insults in any form.",
+      "text3": "3.General provisions 2.1.\n Consent with these Rules may be expressed in the following: 2.1.1. What are you registering a profile on the Site. 2.1.2. You post a message on the Site. 2.1.3. You are visiting the Site. In this case, you understand and agree that the Administration will regard the fact that you use the Site as acceptance of the Rules from the relevant point in time.",
+      "text4": "2.1.4. It is forbidden to register a user on the Site more than once (re-registration). It is forbidden to use multiple accounts by one user. In the sections \"Flea market\", \"Avtobarakholka\", \"Motobarakholka\", \"Apartments for sale\", \"Apartments for rent\", \"Flea market in the catalog\" it is prohibited to place information from several legal entities or individual entrepreneurs by a single user. Each individual entrepreneur and legal entity may use only one user to post information on its own behalf.",
+      "text5": "2.1.5. Ignorance of the Rules for using the Site not only does not relieve you from liability for their violation, but is in itself a violation and aggravating circumstance. 2.2. These Rules govern the norms of correct communication on the blog s13.ru. 2.3. Messages and publications are post-moderated: the moderator's actions are carried out after adding publications and posts to the blog s13.ru. 2.4. Users have the right to freely express their own opinions on any topic."
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "description": "In Poland, confirmed the Xiaomi Mi 9T and Mi 9T Pro instead of the Redmi K20 / K20 Pro",
+      "date": "May, 25, 2019 1:30 pm | 15 176",
+      "content": "The other day on the Web there was information that the Redmi K20 will arrive in Europe under a different name - Xiaomi Mi 9T. Now this information has received another confirmation. Polish media, citing unnamed but very reliable sources, report that Redmi K20 and K20 Pro will be available in the country, but will be referred to as Xiaomi Mi 9T and Mi 9T Pro, respectively. At the same time, their price tags will be comparable to Mi 9 SE and Mi 9 (in Russia, by the way, these devices are priced at 24,990 and 34,990 rubles, respectively).",
+      "content2": "However, as positioning. According to the data available today, the Redmi K20 and K20 Pro will get a 6.39 '' AMOLED display with Full HD + resolution and a fingerprint screen scanner, a Snapdragon 730/855 chipset, up to 8 GB of RAM and up to 256 GB of ROM, a triple main camera with 48 -Mp Sony sensor IMX586 based, retractable front-end, 4000 mAh battery with support for fast 27-watt charging, NFC module and Android 9 Pie with MIUI 10. Official premiere will be held on May 28.",
+      "author": "© Arthur Luchkin. MY PHONE",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/news-photo/redmi_k20.jpg",
+        "large": "assets/images/news-photo/redmi_k20.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "description": "Apple is now obliged to notify users about slowing down the iPhone",
+      "date": "May 25, 2019, 14:00 | 653",
+      "content": "New circumstances have arisen in a rather old case about the deterioration of iPhone performance by Apple. Recall that in the beginning of 2018, Apple got into a scandal when Reddit users provided screenshots showing how the iPhone’s performance indicators after several software updates are fundamentally different. Apple under pressure from the public reacted to this and acknowledged the fact that the performance of iPhone processors with high battery wear was reduced in order to increase their lifespan.After this recognition and a series of cash compensation claims, Apple introduced the iPhone’s performance management feature and displaying battery wear data into iOS. However, this was not enough. Recently, the UK Consumer Protection Authority announced that Apple entered into an agreement with the Competition and Markets Authority, which will notify its users before installing iOS updates that the overall performance of the iPhone may decline and iOS - slow down.",
+      "content2": "Thus, iPhone users gained state protection of their rights, and the British market received a lever of influence on Apple in case of unforeseen innovations on the part of the company that affect consumer user experience. The American authorities also took similar steps, but the results of their verification are unknown. Apple did not comment on the agreements reached in Britain.",
+      "author": "© Alexander Strelnitsky. MY PHONE",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/news-photo/apple.jpg",
+        "large": "assets/images/news-photo/apple.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "description": "ASUS Zenfone 6 has received an update for the camera",
+      "date": "May 25, 2019, 14:56 | 1694",
+      "content": "ASUS distributed the first major update for Zenfone 6, which introduces edits to the camera and some other systems of the device. The update with the serial number 116 became available for test samples, one of which came to us after the presentation (there was an early version with number 95), and the first customers will receive it via PTA number 115. Among the changes are, in particular, the following:",
+      "content2": "The changer includes new personalization settings by default (wallpaper, ringtone), optimization of the menu items on the settings, and activation of some regional VoLTE and VoWiFi standards. Recall that this week started the first campaign for receiving pre-orders in Russia, but the first batch of Zenfone 6 was sold out in a matter of hours. While the Russian buyer is offered a version for 6/128 GB for 42 990 rubles, but it is also planned to release 6/64 GB for 39 990 rubles, 8/256 GB for 49 990 rubles and 12/512 GB for 69 990 rubles.",
+      "author": "© Alexander Strelnitsky. MY PHONE",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/news-photo/asus_zenfone_6.jpg",
+        "large": "assets/images/news-photo/asus_zenfone_6.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "description": "Trump: Huawei may be included in a trade agreement with China",
+      "date": "May, 24, 2019 3:30 pm | 11 116",
+      "content": "Trump: Huawei may be included in a trade agreement with China May 24, 2019, 17:51 | 1242 Last week in the market of mobile devices was marked by the news that the United States made one of the leaders of the global telecommunications market, the Chinese Huawei, on the list of dangerous for the national security of the country, which actually jeopardized the further work of the brand. Many associate this decision of the administration of President Donald Trump (Donald Trump) with political battles and the US-Chinese trade war, which has been going on for more than one month, and Huawei observers consider it a potential bargaining chip for reaching an agreement. Now the official confirmed this at one of his press conferences, devoted mainly to trade relations with China and support for agriculture.",
+      "content2": "To the journalist’s question about Huawei as a possible argument in negotiations with the Chinese side, Trump stressed that Huawei is indeed “dangerous in terms of security and defense,” but he didn’t exclude the possibility of including the company in a trade deal. To the journalist’s clarifying question about how he sees this deal, the US president said it’s too early to talk about details, because the authorities are concerned about national security issues. In any case, he said, the agreement will be very good for the United States. Dialogue with a journalist, you can look at the video below (from 40:21).\n\nJournalists (in particular, The Verge edition) are perplexed at Trump's words, pointing out the contradictory statements about the danger of Huawei and the possibility of lifting the sanction through a trade deal with China. They emphasize that if the Chinese company was a threat, then it will remain it after reaching “peace” in trade issues, while noting that if Huawei Ban is a bluff to get preferences in relations with China, then this situation is even worse, because the residents The United States may lose confidence in national security threat arguments. Anyway, the story of Huawei is not over yet, and we will hear more than once about new vicissitudes around this issue.\n",
+      "author": "© Alexander Strelnitsky. MY PHONE",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/news-photo/huawei.jpg",
+        "large": "assets/images/news-photo/huawei.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "description": "A quick review of the Samsung Galaxy M20: Tmall exclusive for 11,500 rubles",
+      "date": "May 24, 2019, 17:00 | 1042",
+      "content": "Today, May 24, the Russian release of the Samsung Galaxy M20. Unusual for Galaxy smartphones was the fact that the budget device became an exclusive for the AliExpress Tmall online platform, where the device can be bought at a reduced price - less than 11,500 rubles. For this money, the buyer will receive NFC, a 5000 mAh battery, an Infinity-V screen design, and a Samsung branded interface. By the way, the new product is built on Android 8.1 Oreo with the Samsung Experience (Android Pie with One UI should be brought in within a few weeks). These other discoveries were made during the first acquaintance with the device in blue.",
+      "content2": "During the quick review, we will evaluate the display, talk about the design, the camera with a wide-angle lens, test the games, drive out the benchmarks, and in the end talk about the entire current Samsung line in the segments of the initial and average Russian retail. Spoiler: Galaxy M20 has become one of its most worthy representatives. Subscribe to the channel if you liked this video, because then it will be even more interesting. And to buy the Galaxy M20 at the stated price you can follow the link below.",
+      "author": "© Arthur Luchkin. MY PHONE",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/news-photo/samsung_galaxy_m20.jpg",
+        "large": "assets/images/news-photo/samsung_galaxy_m20.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "description": "Redmi 7A Announcement - New Budget Hit on Snapdragon 439",
+      "date": "May 24, 2019, 16:21 | 1007",
+      "content": "The Redmi brand presented a new leader in the ultrabudget segment, which Redmi 7A was expected to become. The novelty received a 5.45 \"HD + display, a Snapdragon 439 chipset, a large 4000 mAh battery, a triple SIM card slot and a microSD memory card up to 256 GB, a 13-megapixel main camera and a stylish design in plastic spray protection that fits well in the hand. Available colors are black and blue. Unfortunately, at this moment the prices and equipment options are not mentioned: Redmi promised to announce this data on May 28. On the same day we are waiting for the presentation of the Redmi K20 and K20 Pro.",
+      "content2": "Technical characteristics of Redmi 7A:\n\n\nNetwork: 2G, 3G, 4G (LTE Cat.4, VoLTE)\nPlatform (at the time of the announcement): Android 9 Pie on MIUI 10\nDisplay: 5.45 ”, 18: 9, 1440 x 720 pixels. LCD, glass 2.5D\nCamera: 13 megapixel, phase autofocus\nFront camera: 5 megapixel\nProcessor: 8 cores, 12 nm, up to 2 GHz Qualcomm Snapdragon 439\nGraphics chip: Adreno 505\nRAM: 2/3/4 GB, LPDDR3\nInternal Memory: 16/32/64 GB, eMMC 5.1\nMemory card: microSD up to 400 GB\nA-GPS, GLONASS, Beidou, Galileo\nBluetooth 4.2\nmicroUSB\nWi-Fi (802.11b / g / n)\nFM radio\nPorts: microUSB, 3.5 mm\nBattery: 4000 mAh, fast charging 10W\nDimensions: 146.3 x 70.41 x 9.55 mm\nWeight: 150 g",
+      "author": "© Arthur Luchkin. MY PHONE",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/news-photo/redmi_7.jpg",
+        "large": "assets/images/news-photo/redmi_7.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "description": "Test iPhone XS Max in games with metering FPS: continuation and addition",
+      "date": " May 24, 2019 15:48",
+      "content": " We recently had an unusual game test for us. It so happened that the traditional FPS measurement tools do not work on iOS, so I had to improvise. We analyzed feedback from users who wrote to us that there might be inaccuracies in the test due to a specific instance that came to us for review. We also had suspicions that the FPS indicators were influenced by the incoming power through the cable (therefore, additional heating and throttling). The second part of the testing eliminates this nuance and also adds new participants: the second copy of the iPhone XS Max and several iconic Android flagships, including the Meizu 16s on the Snapdragon 855, the Samsung Galaxy S10 + on the Exynos 9820 and the Huawei P30 Pro on the Kirin 980. The results were very entertaining.",
+      "content2": "Well, the experiment showed that the connected cable really affects the performance of the device, although not as critical as it might have seemed. FPS drawdowns still happen, there are also friezes. The throttling of the iPhone XS Max is especially clearly seen against the background of the Meizu 16s, which received very good optimization of the Snapdragon 855. But the brightness reset was also relevant in the second test, which could not fail to attract our attention. We will continue to monitor the performance of the flagships (and not so) in games. Subscribe to the channel not to miss new tests.",
+      "author": "© Arthur Luchkin. MY PHONE",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/news-photo/test_iphone_xs_max.jpg",
+        "large": "assets/images/news-photo/test_iphone_xs_max.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "description": "Unpacking and the first review of Google Pixel 3a XL: top for your money",
+      "date": " May 23, 2019, 14:17 | 2038 ",
+      "content": "At the beginning of this month, Google introduced the new Pixel 3a smartphone family, represented by the Pixel 3a and Pixel 3a XL models. A package from the United States traveled to us for two long weeks, but the smartphone is already in our hands, and now we’ll tell you about the first impressions. We chose the XL version and with a 6 ’’ screen in a stylish white color (there is also a black and purple aka Thanos). Google offered only one configuration option, and therefore have to be content with 4 GB of RAM and 64 GB. It’s good that you have access to Google Photos, albeit with reservations about downloading images in the original.",
+      "content2": "The first acquaintance with the device includes unpacking, the first inclusion, let's talk about the design, characteristics, carry out an express test of the display, show the games work (for now with just one example), compare Pixel 3 XL for $ 1000, of course, take a photo (originals of photos and videos made on Pixel 3a XL is attached below). In general, the device has left a good first impression, offering all that, for which “guglofony” love at a very reasonable price: Pixel 3a XL is priced at $ 479, and its younger version is $ 399. We are planning a full review of this model, with games, comparing night shooting with more expensive flagships and other things. Subscribe to the channel, not to miss, ",
+      "author": "© Arthur Luchkin. MY PHONE",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/news-photo/google_pixel_3a_xl.jpg",
+        "large": "assets/images/news-photo/google_pixel_3a_xl.jpg"
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Xiaomi Redmi 7 3GB / 32GB International Edition (Black)",
+      "price": 300,
+      "specs": {
+        "manufacturer": "Xiaomi",
+        "storage": 16,
+        "os": "Android",
+        "camera": 12
+      },
+      "description": "Android, screen 6.26 \"IPS (720x1520), Qualcomm Snapdragon 632, 3 GB RAM, 32 GB flash memory, memory cards, 12 megapixel camera, 4000 mAh battery, 2 SIM, black",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/img-products/xiaomi.jpg",
+        "large": "assets/images/img-products/xiaomi.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Honor 8X 4GB / 64GB JSN-L21 (Red)",
+      "price": 320,
+      "specs": {
+        "manufacturer": "Honor",
+        "storage": 16,
+        "os": "Android",
+        "camera": 8
+      },
+      "description": "Android, screen 6.5 \"IPS (1080x2340), HiSilicon Kirin 710, 4 GB RAM, 64 GB flash memory, memory cards, 20 megapixel camera, 3750 mAh battery, 2 SIM, red",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/img-products/honor.jpg",
+        "large": "assets/images/img-products/honor.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Huawei P30 Lite MAR-LX1M Dual SIM 4GB / 128GB (saturated turquoise)",
+      "price": 219,
+      "specs": {
+        "manufacturer": "Huawei",
+        "storage": 32,
+        "os": "Android",
+        "camera": 5
+      },
+      "description": "Android, screen 6.15 \"IPS (1080x2312), HiSilicon Kirin 710, 4 GB RAM, 128 GB flash memory, memory cards, 24 megapixel camera, 3340 mAh battery, 2 SIM, blue",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/img-products/huawei.jpg",
+        "large": "assets/images/img-products/huawei.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Apple iPhone XR 64GB (Blue)",
+      "price": 232,
+      "specs": {
+        "manufacturer": "Apple",
+        "storage": 32,
+        "os": "Android",
+        "camera": 12
+      },
+      "description": "Apple iOS, 6.1 \"IPS screen (828x1792), Apple A12 Bionic, 3 GB RAM, 64 GB flash memory, 12 megapixel camera, 2942 mAh battery, 1 SIM, blue color",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/img-products/apple.jpg",
+        "large": "assets/images/img-products/apple.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "ASUS ZenFone Max Pro (M2) 4GB / 64GB ZB631KL (Gray)",
+      "price": 340,
+      "specs": {
+        "manufacturer": "ASUS",
+        "storage": 16,
+        "os": "Android",
+        "camera": 5
+      },
+      "description": "Android, screen 6.3 \"IPS (1080x2280), Qualcomm Snapdragon 660 MSM8956 Plus, 4 GB RAM, 64 GB flash memory, memory cards, 12 megapixel camera, 5000 mAh battery, 2 SIM, gray",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/img-products/ASUS.jpg",
+        "large": "assets/images/img-products/ASUS.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Sony Xperia XZ1 Compact (Black)",
+      "price": 239,
+      "specs": {
+        "manufacturer": "Sony",
+        "storage": 32,
+        "os": "Android",
+        "camera": 12
+      },
+      "description": "Android, screen 4.6 \"IPS (720x1280), Qualcomm Snapdragon 835 MSM8998, 4 GB RAM, 32 GB flash memory, memory cards, 19 megapixel camera, 2700 mAh battery, 1 SIM, black",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/img-products/sony.jpg",
+        "large": "assets/images/img-products/sony.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy A50 4 GB / 64 GB (White)",
+      "price": 222,
+      "specs": {
+        "manufacturer": "Samsung",
+        "storage": 16,
+        "os": "Android",
+        "camera": 15
+      },
+      "description": "Android, screen 6.4 \"AMOLED (1080x2340), Exynos 9610, 4 GB RAM, 64 GB flash memory, memory card, 25 megapixel camera, 4000 mAh battery, 2 SIM, white",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/img-products/samsung.jpg",
+        "large": "assets/images/img-products/samsung.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nokia 9 PureView (blue)",
+      "price": 200,
+      "specs": {
+        "manufacturer": "Nokia",
+        "storage": 16,
+        "os": "Android",
+        "camera": 8
+      },
+      "description": "Android, screen 5.99 \"OLED (1440x2880), Qualcomm Snapdragon 845, 6 GB RAM, 128 GB flash memory, 12 megapixel camera, 3360 mAh battery, 2 SIM, blue color",
+      "rating": 4,
+      "image": {
+        "small": "assets/images/img-products/Nokia.jpg",
+        "large": "assets/images/img-products/Nokia.jpg"
+      }
+    }
+  ],
+  "commentsProd1": [
+    {
+      "name": "a@f.com",
+      "text": "sadfD",
+      "indexProd": "1",
+      "id": 1
+    },
+    {
+      "name": "w@w",
+      "text": "this is the best product",
+      "indexProd": "1",
+      "id": 2
+    }
+  ],
+  "commentsProd2": [
+    {
+      "name": "a@f.com",
+      "text": "This is the best product!!!",
+      "indexProd": "2",
+      "id": 1
+    }
+  ],
+  "commentsProd3": [],
+  "commentsProd4": [],
+  "commentsProd5": [],
+  "commentsProd6": [],
+  "commentsProd7": [],
+  "commentsProd8": []
+}
